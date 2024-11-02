@@ -1,0 +1,58 @@
+body{
+    background-color: #000;
+}
+
+svg{
+    width: 3rem;
+    height: 3rem;
+}
+
+.FondoCeleste{
+    background-color: #0dc9f0;
+}
+
+i{
+    font-size: 1.5rem;
+}
+
+.altoImagenTarjeta{
+    height: 40%;
+}
+
+.colorFuente{
+    color: #fff;
+}
+
+.margenIzquierda{
+    margin-left: 6rem;
+}
+
+.fa-brands {
+    font-size: 1.5rem;
+    color: #ffffff;
+    transition: all 0.3s ease;
+}
+
+.fa-square-github:hover {
+    color: #333;
+}
+
+.fa-facebook:hover {
+    color: #1877f2;
+}
+
+.fa-linkedin:hover {
+    color: #0077b5;
+}
+
+.fa-twitter:hover {
+    color: #1da1f2;
+}
+
+a {
+    text-decoration: none;
+}
+
+.fa-brands:hover {
+    transform: scale(1.2);
+}
